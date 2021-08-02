@@ -1,0 +1,1 @@
+# check-smooth-git-plugin
