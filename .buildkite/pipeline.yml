@@ -1,0 +1,5 @@
+steps:
+  - plugins:
+    - hasura/smooth-checkout#v1.0.0
+        ref: main
+    command: printenv
